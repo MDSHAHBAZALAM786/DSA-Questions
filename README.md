@@ -6,12 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
+## Counting
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
