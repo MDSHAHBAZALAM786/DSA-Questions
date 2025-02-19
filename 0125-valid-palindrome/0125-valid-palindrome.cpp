@@ -1,22 +1,28 @@
 class Solution {
 public:
+    bool isAlphaNumeric(char c) {
+        if( (c >= 'A' && c <= 'Z') || \
+            (c >= 'a' && c <= 'z') || \
+            (c >= '0' && c <= '9') )
+            return true;
+        return false;
+    }
     bool isPalindrome(string s) {
-        int left = 0, right = s.size() - 1;
-        
-        while (left < right) {
-            // Skip non-alphanumeric characters
-            while (left < right && !isalnum(s[left])) left++;
-            while (left < right && !isalnum(s[right])) right--;
-
-            // Compare characters (case insensitive)
-            if (tolower(s[left]) != tolower(s[right])) {
-                return false;
+        int start = 0, end = s.length() - 1;
+        while(start < end) {
+            if(!isAlphaNumeric(s[start])) {
+                start++;
+                continue;
             }
-
-            left++;
-            right--;
+            if(!isAlphaNumeric(s[end])) {
+                end--;
+                continue;
+            }
+            if(tolower(s[start]) != tolower(s[end]))
+                return false;
+            start++;
+            end--;
         }
-        
         return true;
     }
 };
