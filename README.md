@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0231-power-of-two) |
 | [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 ## Hash Table
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
