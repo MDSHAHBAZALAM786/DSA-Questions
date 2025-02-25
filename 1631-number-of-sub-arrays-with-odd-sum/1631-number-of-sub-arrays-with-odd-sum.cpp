@@ -1,22 +1,19 @@
 class Solution {
 public:
+    int M = 1e9 + 7;
     int numOfSubarrays(vector<int>& arr) {
-        const int MOD = 1e9 + 7;
-        int odd_count = 0, even_count = 1; // even_count = 1 (empty prefix)
-        int prefix_sum = 0, result = 0;
-        
-        for (int num : arr) {
-            prefix_sum += num;
-            
-            if (prefix_sum % 2 == 0) {
-                result = (result + odd_count) % MOD;
-                even_count++;
-            } else {
-                result = (result + even_count) % MOD;
-                odd_count++;
+        int odd =0,even=1,ret=0,sum=0;
+        for(int i:arr){
+            sum +=i;
+            if(sum%2){
+                odd++;
+                ret+=even;
+            }else{
+                even++;
+                ret+=odd;
             }
+            ret = ret%M;
         }
-        
-        return result;
+        return ret%M;
     }
 };
