@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0066-plus-one) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
