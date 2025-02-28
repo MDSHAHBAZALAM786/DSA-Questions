@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [1170-shortest-common-supersequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1970-sorting-the-sentence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1970-sorting-the-sentence) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
