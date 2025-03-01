@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0202-happy-number) |
+| [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1970-sorting-the-sentence) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
