@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3483-alternating-groups-ii) |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0069-sqrtx) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
