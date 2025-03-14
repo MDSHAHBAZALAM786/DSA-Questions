@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0066-plus-one) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0069-sqrtx) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
