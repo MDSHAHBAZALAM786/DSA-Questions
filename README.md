@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2050-count-good-numbers) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
