@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1013-fibonacci-number) |
+| [1500-count-largest-group](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2448-count-number-of-bad-pairs) |
