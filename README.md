@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2249-count-the-hidden-sequences) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0069-sqrtx) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1970-sorting-the-sentence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
@@ -369,5 +374,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
