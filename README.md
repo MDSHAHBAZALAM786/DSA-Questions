@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1970-sorting-the-sentence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1970-sorting-the-sentence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0202-happy-number) |
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
