@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1656-count-good-triplets) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1970-sorting-the-sentence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
