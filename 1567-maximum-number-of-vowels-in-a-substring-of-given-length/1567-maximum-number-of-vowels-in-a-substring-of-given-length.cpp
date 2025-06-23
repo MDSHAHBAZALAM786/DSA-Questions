@@ -19,6 +19,9 @@ public:
         int ans=count;
         while(end<s.size()){
             end++;
+            // if(end==s.size()){
+            //     break;
+            // }
             if(isVowel(s[end])){
                 count++;
             }
