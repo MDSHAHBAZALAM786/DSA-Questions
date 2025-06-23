@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0797-rabbits-in-forest](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
