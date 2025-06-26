@@ -29,7 +29,7 @@ public:
         // return maxSubArrSum;
 
 
-        // Working
+        // Working O(N)
         int n = nums.size();
         int maxSubArrSum = INT_MIN;
         int currSubArrSum = 0;
