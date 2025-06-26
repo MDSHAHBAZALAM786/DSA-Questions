@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0797-rabbits-in-forest) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
