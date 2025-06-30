@@ -1,20 +1,36 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int n=nums.size();
-        int start=0;
-        int end=n-1;
-        
-        while(start<=end){
-            int mid=(start+end)/2;
-            if(nums[mid]==target){
-                return mid;
-            }else if(nums[mid]>target){
-                end=mid-1;
-            }else{
-                start=mid+1;
-            }
+        // int n=nums.size();
+        // int start=0;
+        // int end=n-1;
+        // while(start<=end){
+        //     int mid=(start+end)/2;
+        //     if(nums[mid]==target){
+        //         return mid;
+        //     }else if(nums[mid]>target){
+        //         end=mid-1;
+        //     }else{
+        //         start=mid+1;
+        //     }
+        // }
+        // return -1;
+
+        return binarySearch(nums,0,nums.size()-1,target);
+    }
+
+    // Recursion
+    int binarySearch(vector<int>nums, int start, int end, int target){
+        if(start>end){
+            return -1;
         }
-        return -1;
+        int mid = start + (end-start)/2;
+        if(nums[mid]==target){
+            return mid;
+        }else if(nums[mid]>target){
+            return binarySearch(nums,start,mid-1,target);
+        }else{
+            return binarySearch(nums,mid+1,end,target);
+        }
     }
 };
