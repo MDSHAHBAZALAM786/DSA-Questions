@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## String Matching
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -400,10 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
