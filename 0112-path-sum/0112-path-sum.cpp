@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-
     bool hasPathSumHelper(TreeNode* root, int targetSum, int currPathSum){
         if(root == NULL){   // NULL Case
             return false;
@@ -32,7 +31,6 @@ public:
     }
 
     bool hasPathSum(TreeNode* root, int targetSum) {
-        
         return hasPathSumHelper(root, targetSum, 0);
     }
 };
