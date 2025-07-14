@@ -12,34 +12,34 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int, int> inorderMap;
-        for (int i = 0; i < inorder.size(); i++) {
-            inorderMap[inorder[i]] = i;
+        unordered_map<int, int> valueInorderIndexMap;
+        int n = inorder.size();
+
+        for (int idx = 0; idx < n; ++idx) {
+            valueInorderIndexMap[inorder[idx]] = idx;
         }
 
-        return buildTreeHelper(preorder, 0, preorder.size() - 1,
-                               inorder, 0, inorder.size() - 1, inorderMap);
+        return buildTreeHelper(preorder, inorder, 0, n - 1, 0, n - 1, valueInorderIndexMap);
     }
 
-private:
-    TreeNode* buildTreeHelper(vector<int>& preorder, int preStart, int preEnd,
-                              vector<int>& inorder, int inStart, int inEnd,
-                              unordered_map<int, int>& inorderMap) {
+    TreeNode* buildTreeHelper(vector<int>& preorder, vector<int>& inorder, int preStart, int preEnd,
+                              int inStart, int inEnd, unordered_map<int, int>& valueInorderIndexMap) {
+        
         if (preStart > preEnd || inStart > inEnd) {
             return nullptr;
         }
 
-        int rootVal = preorder[preStart];
-        TreeNode* root = new TreeNode(rootVal);
+        int rootNodeValue = preorder[preStart];
+        TreeNode* root = new TreeNode(rootNodeValue);
 
-        int inRoot = inorderMap[rootVal];
-        int numsLeft = inRoot - inStart;
+        int inorderIndex = valueInorderIndexMap[rootNodeValue];
+        int countLeftSubTreeNodes = inorderIndex - inStart;
 
-        root->left = buildTreeHelper(preorder, preStart + 1, preStart + numsLeft,
-                                     inorder, inStart, inRoot - 1, inorderMap);
+        root->left = buildTreeHelper(preorder, inorder, preStart + 1, preStart + countLeftSubTreeNodes,
+                                     inStart, inorderIndex - 1, valueInorderIndexMap);
 
-        root->right = buildTreeHelper(preorder, preStart + numsLeft + 1, preEnd,
-                                      inorder, inRoot + 1, inEnd, inorderMap);
+        root->right = buildTreeHelper(preorder, inorder, preStart + countLeftSubTreeNodes + 1, preEnd,
+                                      inorderIndex + 1, inEnd, valueInorderIndexMap);
 
         return root;
     }
