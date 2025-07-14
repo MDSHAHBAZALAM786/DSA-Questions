@@ -11,16 +11,6 @@
  */
 class Solution {
 public:
-    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        unordered_map<int, int> valueInorderIndexMap;
-        int n = inorder.size();
-
-        for (int i = 0; i < n; ++i) {
-            valueInorderIndexMap[inorder[i]] = i;
-        }
-
-        return buildTreeHelper(postorder, inorder, 0, n - 1, 0, n - 1, valueInorderIndexMap);
-    }
     TreeNode* buildTreeHelper(vector<int>& postorder, vector<int>& inorder,
                               int postStart, int postEnd,
                               int inStart, int inEnd,
@@ -44,5 +34,15 @@ public:
                                       inorderIndex + 1, inEnd, valueInorderIndexMap);
 
         return root;
+    }
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        unordered_map<int, int> valueInorderIndexMap;
+        int n = inorder.size();
+
+        for (int i = 0; i < n; ++i) {
+            valueInorderIndexMap[inorder[i]] = i;
+        }
+
+        return buildTreeHelper(postorder, inorder, 0, n - 1, 0, n - 1, valueInorderIndexMap);
     }
 };
