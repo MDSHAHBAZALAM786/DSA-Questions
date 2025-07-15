@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
