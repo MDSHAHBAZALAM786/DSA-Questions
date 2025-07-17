@@ -1,13 +1,18 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        if(n == 0 || n == 1) return 1;
-        int prev1 = 1, prev2 = 1;
-        for(int i = 2; i <= n; i++) {
-            int current = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = current;
+    int climbStairsHelper(int start, int end, vector<int> &dp){
+        if(dp[start] != -1){
+            return dp[start];
         }
-        return prev1;
+        dp[start] = climbStairsHelper(start+1, end, dp) + climbStairsHelper(start+2, end, dp);
+        return dp[start];
+    }
+
+    int climbStairs(int n) {
+        vector<int> dp(n+1 , -1);
+        dp[n] = 1;
+        dp[n-1] = 1;
+        climbStairsHelper(0, n, dp);
+        return dp[0];
     }
 };
