@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
