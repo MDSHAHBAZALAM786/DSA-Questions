@@ -15,12 +15,13 @@ public:
         // nums.resize(index);
         // return index;
 
+                // Optimal Solution
         int n = nums.size();
         int i = 0;
         for(int j=1; j<n; j++){
             if(nums[i] != nums[j]){
-                nums[i+1] = nums[j];
                 i++;
+                nums[i] = nums[j];
             }
         }
         return i+1;
