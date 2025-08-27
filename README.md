@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
+| [1019-squares-of-a-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1970-sorting-the-sentence) |
