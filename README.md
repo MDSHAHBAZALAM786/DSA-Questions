@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0485-max-consecutive-ones) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
