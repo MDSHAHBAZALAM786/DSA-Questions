@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
