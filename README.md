@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 ## Trie
 |  |
