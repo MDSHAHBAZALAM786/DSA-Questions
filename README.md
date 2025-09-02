@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0202-happy-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
