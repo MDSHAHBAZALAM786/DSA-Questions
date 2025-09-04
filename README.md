@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3830-find-closest-person](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
