@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0189-rotate-array) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
