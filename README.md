@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/2050-count-good-numbers) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Monotonic Queue
