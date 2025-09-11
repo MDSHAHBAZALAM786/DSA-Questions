@@ -12,7 +12,7 @@ public:
         //     nums[index] = it;
         //     index++;
         // }
-        // nums.resize(index);
+        // // nums.resize(index);
         // return index;
 
                 // Optimal Solution
