@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0868-push-dominoes) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MDSHAHBAZALAM786/DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## String Matching
 |  |
